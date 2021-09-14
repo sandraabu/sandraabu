@@ -13,7 +13,7 @@ I am Sandra, a Junior Data Scientist with a background in Life Sciences  :deskto
 
 ## Projects
 
-- [ ] UK Forest Health
+- [ ] [UK Forest Health](https://github.com/sandraabu/UK-Forest-Health#UK-Forest-Health)
 - [ ] Web Scraping for Indeed.com and Predicting Salaries
 - [ ] Regression and Classification with the Ames Housing Data
 
