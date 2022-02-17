@@ -3,17 +3,19 @@
 I am Sandra, a Junior Data Scientist with a background in Life Sciences  :desktop_computer: :bar_chart: :petri_dish: :microscope: :test_tube:
                                                     
 ## Skills:
-- [ ] Languages: Python
+- [ ] Languages: Python, SQL
 - [ ] DS/ML: NumPy, SciPy, Pandas, Scikit-Learn, statsmodels
-- [ ] RDBMS: SQLite, MySQL, PostgreSQL
-- [ ] Visualization: Matplotlib, Seaborn, Tableau, Geopandas
+- [ ] RDBMS: SQLite, MySQL
+- [ ] Visualization: Matplotlib, Seaborn, Tableau, Geopandas, Plotly
 - [ ] Supervised / Unsupervised Machine Learning:​ Regularization with Lasso, Ridge, ElasticNet, Linear/Logistic Regression, kNN, Decision Trees, Support Vector Machine, Bagging/Boosting Models, Pipelines, Model evaluation with ROC curve, cross-validation, bootstrapping, grid-search
 - [ ] Natural Language Processing:​ Tf-idf, Count Vectorizer
+- [ ] Time Series: Arima, Sarimax
 
 
 ## Projects
 
 - [ ] [UK Forest Health](https://github.com/sandraabu/UK-Forest-Health#UK-Forest-Health)
+- [ ] [Beijing Multisite Air Quality](https://github.com/sandraabu/Beijing-Multi-Site-Air-Quality#Beijing-Multi-Site-Air-Quality)
 - [ ] Web Scraping for Indeed.com and Predicting Salaries
 - [ ] Regression and Classification with the Ames Housing Data
 
