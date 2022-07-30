@@ -13,7 +13,7 @@ I am Sandra, a Junior Data Scientist with a background in Life Sciences  :deskto
 
 
 ## Projects
-
+- [ ] [Tableau vizualizations](https://public.tableau.com/app/profile/sandra.abubakir#!/)
 - [ ] [Earthquake damage - SQL ](https://github.com/sandraabu/earthquake-damage)
 - [ ] [Retail analytics dashboarch](https://github.com/sandraabu/retail-analytics-dashboard)
 - [ ] [Flood monitoring](https://github.com/sandraabu/Flood-Monitoring#Flood-monitoring)
